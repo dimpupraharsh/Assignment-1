@@ -65,8 +65,7 @@ Feel free to submit issues and enhancement requests!
 
 ## License
 
-[Your chosen license]
 
 ## Author
 
-Created by Vijay M
+Created by Medi Praharsh vijay
